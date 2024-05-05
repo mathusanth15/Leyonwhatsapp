@@ -1,5 +1,5 @@
 {
-  "name": "Phoenix-MD",
+  "name": "Leyon",
   "description": "A Simple WhatsApp Bot",
   "version": "1.8.0",
   "main": "index.js",
@@ -22,7 +22,7 @@
    "terumx-bot",
    "multi-device"
   ],
-  "author": "Abhishek Suresh",
+  "author": "MSLeyon",
   "license": "Apache-2.0",
   "dependencies": {
    "@whiskeysockets/baileys": "^6.6.0",
