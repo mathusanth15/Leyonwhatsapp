@@ -73,7 +73,7 @@ Description : ${i.desc}\`\`\``
 
       menu += ``;
       return await message.client.sendMessage(message.jid, {
-        image: { url: `https://i.ibb.co/tHWJrz3/IMG-20231128-WA0005.jpg` },
+        image: { url: `https://telegra.ph/file/b84283f0f9512c962c28f.png` },
         caption: tiny(menu),
         footer: tiny(
           `Phoenix-MD\nVersion : ${require("../package.json").version}`
